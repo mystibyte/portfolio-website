@@ -9,11 +9,10 @@ export default function AboutPage() {
         </p>
         <p>
           Outside academics, you'll find me watching anime, playing online games with friends, 
-          and crafting lexicons or fantasy-inspired names.
+          and reading a bunch of fictional books.
         </p>
       </div>
 
-      {/* Photo on the right */}
       <div className="about-photo">
         <img 
           src="/profile.jpg" 

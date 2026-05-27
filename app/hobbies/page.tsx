@@ -13,8 +13,8 @@ export default function HobbiesPage()
           <p>Playing online games with friends for fun and teamwork.</p>
         </div>
         <div className="hobby-card">
-          <h2>Creative Writing</h2>
-          <p>Crafting lexicons, fantasy names, and roleplay culture stories.</p>
+          <h2>Reading</h2>
+          <p>Exploring imaginative stories and expanding my perspective through novels and short stories.</p>
         </div>
         <div className="hobby-card">
           <h2>Journaling</h2>

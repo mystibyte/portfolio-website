@@ -1,4 +1,5 @@
-export default function Resume() {
+export default function Resume() 
+{
   return (
     <div className="resume-page">
 
@@ -31,7 +32,7 @@ export default function Resume() {
 
         <div className="resume-item">
           <h3>College</h3>
-          <p>BSIT 2nd Year — Currently Studying at Pamantasan ng Lungsod ng San Pablo</p>
+          <p>BSIT 2nd Year — Currently studying at Pamantasan ng Lungsod ng San Pablo</p>
         </div>
 
         <div className="resume-item">
@@ -46,7 +47,7 @@ export default function Resume() {
 
         <div className="resume-item">
           <h3>Elementary</h3>
-          <p>San Pablo Central School(2018)</p>
+          <p>San Pablo Central School (2018)</p>
         </div>
       </div>
 
@@ -65,7 +66,7 @@ export default function Resume() {
         <ul>
             <li>Anime (Iruma-kun, Tokyo Ghoul, One Piece)</li>
             <li>Online Gaming</li>
-            <li>Digital Art & Aesthetics (moodboards)</li>
+            <li>Reading</li>
             <li>Journaling</li>
         </ul>
         </div>
